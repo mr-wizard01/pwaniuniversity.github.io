@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: monospace;
+}
+
+.header {
+  height: 100vh;
+  background: linear-gradient(to right, blue, orange);
+  text-align: center;
+  border-radius: 30px;
+}
+
+.closing {
+  height: 100vh;
+  background: linear-gradient(to bottom, whitesmoke, lightblue);
+}
+
+.page2 {
+  background: orange;
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+img {
+  height: 150px;
+}/*# sourceMappingURL=styles.css.map */
